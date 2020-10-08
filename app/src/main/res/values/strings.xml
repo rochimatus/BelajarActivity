@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarActivity</string>
+    <string name="email_val">email_val</string>
+    <string name="password_val">password_val</string>
+</resources>
